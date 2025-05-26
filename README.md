@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Saihardik
-- 👀 I’m interested in coding with python and client side applications
-- 🌱 I’m currently learning python with data science
-- 💞️ I’m looking to collaborate on data science
-- 📫 How to reach me data science
+- 👀 I’m interested in coding with python and data analysis
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking forward work  on data analyst roles
 
 <!---
 Saihardik/Saihardik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
